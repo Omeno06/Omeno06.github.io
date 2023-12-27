@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700;900&family=Montserrat:wght@100;300;400;700&family=Rubik+Doodle+Shadow&display=swap');
+body {
+    font-family: Merriweather, sans-serif;
+    padding-top: 70px;
+    background-color: #eee;
+    font-size: 1.6em;
+}
+
+* {
+    box-sizing: border-box;
+}
+ 
+#main {
+    text-align: center;
+    min-width: 400px;
+}
+
+#main h1 {
+    font-family: Rubik Doodle Shadow, sans-serif;
+    font-size: 12vw;
+    margin: 0;
+    padding: 0;
+    line-height: 1em;
+}
+
+#main p {
+    margin: 0;
+    font-size: 5vw;
+}
+
+#img-div {
+    background-color: white;
+    padding: 5px;
+}
+
+#image {
+    max-width: 100%;
+    display: block;
+}
+
+#img-caption {
+    margin: 10px 0 5px 0;
+    font-size: .7em;
+}
+
+section {
+    display: block;
+}
+
+h3 {
+    font-size: 3vw;
+    margin: 50px 0;
+}
+
+ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+blockquote {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 40px;
+    margin-inline-end: 40px;
+}
+
+
+
+
+
